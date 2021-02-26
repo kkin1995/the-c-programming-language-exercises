@@ -1,3 +1,4 @@
+// Write a program to print a temperature conversion table from Celsius to Fahrenheit
 # include <stdio.h>
 
 #define LOWER 0
