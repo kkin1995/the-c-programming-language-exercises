@@ -4,3 +4,6 @@ a.out
 # Misc Files
 *.txt
 *.pdf
+
+# VSCode
+.vscode
